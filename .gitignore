@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+sentiment_env/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Generated files
+static/charts/
+static/results/
+
+# Dataset (optional - recommended if large)
+data/sentiment140.csv
+
+# OS files
+.DS_Store
+Thumbs.db
